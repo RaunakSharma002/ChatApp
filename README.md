@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/flash_chat_app.git
+    git clone https://github.com/RaunakSharma/ChatApp.git
     cd flash_chat_app
     ```
 
@@ -74,7 +74,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to me at your_email@example.com.
+If you have any questions or feedback, feel free to reach out to me at raunaksharma22345@gmail.com.
 
 ---
 
