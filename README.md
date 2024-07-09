@@ -1,7 +1,7 @@
 # Flash_ Chat App
 
 ![Login Screen](path/to/your/image1.jpg)
-![Chat Screen]([path/to/your/image2.jpg](https://github.com/RaunakSharma002/ChatApp/tree/main/images/chat-page.jpeg))
+![Chat Screen]([https://github.com/RaunakSharma002/ChatApp/tree/main/images/chat-page.jpg])
 ![Registration Screen](path/to/your/image3.jpg)
 
 ## Description
