@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157976233812",
+    "project_id": "chatapp-f5cd6",
+    "storage_bucket": "chatapp-f5cd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157976233812:android:a76efff3dbbc2368c5eac1",
+        "android_client_info": {
+          "package_name": "com.sumit.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157976233812-91j6or3svg1kgvd8viru2kiv5b476ieh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCych5q1m6dVQifhcQFAa1yUOd57-CK-As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157976233812-91j6or3svg1kgvd8viru2kiv5b476ieh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
