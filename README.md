@@ -1,8 +1,8 @@
 # Flash_ Chat App
 
 <img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Front Page" width="300"/>
-<img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image2.jpg" alt="Chat Screen" width="300"/>
-<img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image3.jpg" alt="Registration Screen" width="300"/>
+<img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Chat Screen" width="300"/>
+<img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Registration Screen" width="300"/>
 
 ## Description
 
