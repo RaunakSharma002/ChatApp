@@ -1,20 +1,20 @@
 # Flash_ Chat App
 
-<div style="display: flex; justify-content: space-around;">
 
+## Screenshots
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Registration Screen" width="300"/>
       <p>Registration Page</p>
+      <img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Front Screen" width="300"/>
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Login Screen" width="300"/>
       <p>Login Page</p>
+      <img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/registration-page.jpg" alt="Login Screen" width="300"/>
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Chat Screen" width="300"/>
       <p>Chat Page</p>
+      <img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/chat-page.jpg" alt="Chat Screen" width="300"/>
     </td>
   </tr>
 </table>
@@ -29,16 +29,6 @@ Flash_ is a simple and efficient chat application built using Flutter and Fireba
 - **Login Page**: Enables existing users to log in.
 - **Chat Page**: Displays the chat interface where users can send and receive messages in real-time.
 
-## Screenshots
-
-### Registration Page
-<img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image3.jpg" alt="Registration Screen" width="300"/>
-
-### Login Page
-<img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image1.jpg" alt="Login Screen" width="300"/>
-
-### Chat Page
-<img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image2.jpg" alt="Chat Screen" width="300"/>
 
 ## Installation
 
