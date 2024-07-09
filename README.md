@@ -1,19 +1,23 @@
 # Flash_ Chat App
 
 <div style="display: flex; justify-content: space-around;">
-    <div  style="text-align: center;">
-        <img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Registration Screen" width="300"/>
-        <p>Registration Page</p>
-    </div>
-    <div  style="text-align: center;">
-        <img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Login Screen" width="300"/>
-        <p>Login Page</p>
-    </div>
-    <div  style="text-align: center;">
-        <img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Chat Screen" width="300"/>
-        <p>Chat Page</p>
-    </div>
-</div>
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Registration Screen" width="300"/>
+      <p>Registration Page</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Login Screen" width="300"/>
+      <p>Login Page</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Chat Screen" width="300"/>
+      <p>Chat Page</p>
+    </td>
+  </tr>
+</table>
 
 ## Description
 
