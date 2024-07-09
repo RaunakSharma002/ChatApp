@@ -1,8 +1,8 @@
 # Flash_ Chat App
 
-![Login Screen](https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image1.jpg)
-![Chat Screen](https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image2.jpg)
-![Registration Screen](https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image3.jpg)
+<img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image1.jpg" alt="Login Screen" width="300"/>
+<img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image2.jpg" alt="Chat Screen" width="300"/>
+<img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image3.jpg" alt="Registration Screen" width="300"/>
 
 ## Description
 
@@ -17,13 +17,13 @@ Flash_ is a simple and efficient chat application built using Flutter and Fireba
 ## Screenshots
 
 ### Registration Page
-![Registration Screen](https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image3.jpg)
+<img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image3.jpg" alt="Registration Screen" width="300"/>
 
 ### Login Page
-![Login Screen](https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image1.jpg)
+<img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image1.jpg" alt="Login Screen" width="300"/>
 
 ### Chat Page
-![Chat Screen](https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image2.jpg)
+<img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image2.jpg" alt="Chat Screen" width="300"/>
 
 ## Installation
 
