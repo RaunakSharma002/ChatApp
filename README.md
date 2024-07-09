@@ -1,8 +1,8 @@
 # Flash_ Chat App
 
-![front-page](https://github.com/RaunakSharma002/ChatApp/assets/114684315/d0f1ed78-cc9c-4ee7-8ba3-d773795bf8d7)
-![Chat Screen]([https://github.com/RaunakSharma002/ChatApp/tree/main/images/chat-page.jpg])
-![Registration Screen](path/to/your/image3.jpg)
+![Login Screen](https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image1.jpg)
+![Chat Screen](https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image2.jpg)
+![Registration Screen](https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image3.jpg)
 
 ## Description
 
@@ -17,13 +17,13 @@ Flash_ is a simple and efficient chat application built using Flutter and Fireba
 ## Screenshots
 
 ### Registration Page
-![Registration Screen](path/to/your/image3.jpg)
+![Registration Screen](https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image3.jpg)
 
 ### Login Page
-![Login Screen](path/to/your/image1.jpg)
+![Login Screen](https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image1.jpg)
 
 ### Chat Page
-![Chat Screen](path/to/your/image2.jpg)
+![Chat Screen](https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/image2.jpg)
 
 ## Installation
 
