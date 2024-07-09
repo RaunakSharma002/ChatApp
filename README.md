@@ -1,8 +1,19 @@
 # Flash_ Chat App
 
-<img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Front Page" width="300"/>
-<img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Chat Screen" width="300"/>
-<img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Registration Screen" width="300"/>
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <div>
+        <img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Registration Screen" width="300"/>
+        <p>Registration Page</p>
+    </div>
+    <div>
+        <img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Login Screen" width="300"/>
+        <p>Login Page</p>
+    </div>
+    <div>
+        <img src="https://github.com/RaunakSharma002/ChatApp/blob/main/images/front-page.jpg" alt="Chat Screen" width="300"/>
+        <p>Chat Page</p>
+    </div>
+</div>
 
 ## Description
 
